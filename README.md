@@ -2,7 +2,7 @@
 El-Pico, This is a programmable lectric Pizza Cooker (Oven)!
 \
 ![Screenshot](image/image.png)
-キーの上面がFlatになるデータの場合のイメージ
+CADデータのレンダリングイメージ
 
 ## Why Pizza ?
 おいしいピッツァを食べたい！→ピザ窯をつくろう
