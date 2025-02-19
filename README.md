@@ -82,30 +82,34 @@ VS Code & PlatformIOを使用します。
 シーズヒーター 345mm 315mmL 300W, 110V 3本\
 セラミックの部品 10個 OD9.8xH11xID6.7　[AliExpress](https://ja.aliexpress.com/item/1005002340926694.html) \
 ピザプレート 2枚（ツインバード 892009 TS-4119Wから流用）　[yodobashi](https://www.yodobashi.com/product/100000001002338272/)\
-ファイバー断熱材\
-アルミホイル\
+セラミックファイバーブランケット 厚み12.5mm[MonotaRO](https://www.monotaro.com/p/2859/6829/)\
+アルミシート[Amazon](https://www.amazon.co.jp/dp/B00I7KU4JC)\
 耐熱電線\
-耐熱保護チューブ\
-SSR 2個\
-SSRヒートシンク\
+断熱編組スリーブ[Amazon](https://www.amazon.co.jp/dp/B0861VLQ2J)\
+片サドルバンド 625-210-B[MonotaRO](https://www.monotaro.com/p/0109/6515/)\
+SSR 2個[Amazon](https://www.amazon.co.jp/dp/B0CC4VYYJ5)\
+SSRヒートシンク[Amazon](https://www.amazon.co.jp/dp/B0CTQBSR3H)\
+放熱用シリコーン[Amazon](https://www.amazon.co.jp/dp/B004OQP8RQ)\
 Max6675 モジュール 4個\
 K熱電対 2個\
 K熱電対 細 2個\
 ProMicro\
 タクトスイッチ\
-パネルマウントUSB延長ケーブル\
+パネルマウントUSB-C延長ケーブル[Amazon](https://www.amazon.co.jp/dp/B0887XHFML)\
 スイッチング電源\
 ステンレスカラー\
-PCファン\
+PCファン[Amazon](https://www.amazon.co.jp/dp/B09M6HTSC3)\
+ファンガード[Amazon](https://www.amazon.co.jp/gp/product/B00YH754QM)\
 スイッチ\
 OLED\
-ヒューズボックス\
-ガラス管ヒューズ\
+ヒューズホルダー[MiSUMi](https://jp.misumi-ec.com/vona2/detail/222004911089/?ProductCode=FH-052S)\
+ガラス管ヒューズ[Yodobashi](https://www.yodobashi.com/product/100000001002122484/)\
 圧着端子\
 組端子台\
 DINレール\
 DINレール固定金具\
-電源コード\
+電源コード[Amazon](https://www.amazon.co.jp/dp/B00ID1S2W6)\
+インレット C14[MiSUMi](https://jp.misumi-ec.com/vona2/detail/110400165860/?ProductCode=WTN-1171AA)\
 電線\
 ステンレストラスねじ\
 ステンレス針金\
