@@ -74,7 +74,7 @@ OLED とロータリーエンコーダで温度設定を変更可能
 3Dプリント用STEPデータ
 
 ### 制御プログラム
-ProMicro用ファームウェア\
+[ProMicro用ファームウェア](Firmware)\
 VS Code & PlatformIOを使用します。
 
 ### 必要部品
