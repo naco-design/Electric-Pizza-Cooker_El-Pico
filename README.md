@@ -86,7 +86,7 @@ TelePlotで温度やSSRへの出力値（0-255）をグラフ表示すること�
 シーズヒーター|345mm 315mmL 300W, 110V|3本|[AliExpress](https://ja.aliexpress.com/item/1005006249800119.html)|合計743W（100V使用時）
 シーズヒーター|350mm 320mmL 350W, 110V|2本|[AliExpress](https://ja.aliexpress.com/item/1005006249800119.html)|合計581W（100V使用時）
 セラミックの部品|OD9.8xH11xID6.7|10個|[AliExpress](https://ja.aliexpress.com/item/1005002340926694.html)|ヒーターと筐体の絶縁に仕様
-ピザプレート|ツインバード 892009 TS-4119Wから流用|2枚|[yodobashi](https://www.yodobashi.com/product/100000001002338272/)
+ピザプレート|ツインバード 892009|2枚|[yodobashi](https://www.yodobashi.com/product/100000001002338272/)|TS-4119Wから流用
 セラミックファイバーブランケット|厚み12.5mm|1|[MonotaRO](https://www.monotaro.com/p/2859/6829/)
 アルミシート|||[Amazon](https://www.amazon.co.jp/dp/B00I7KU4JC)
 耐熱電線 |15 AWG|5m|[AliExpress](https://ja.aliexpress.com/item/1005004792599537.html)
