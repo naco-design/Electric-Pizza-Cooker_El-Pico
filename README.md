@@ -78,43 +78,46 @@ OLED とロータリーエンコーダで温度設定を変更可能
 VS Code & PlatformIOを使用します。
 
 ### 必要部品
-シーズヒーター 350mm 320mmL 350W, 110V 2本 [AliExpress](https://ja.aliexpress.com/item/1005006249800119.html)\
-シーズヒーター 345mm 315mmL 300W, 110V 3本 [AliExpress](https://ja.aliexpress.com/item/1005006249800119.html)\
-セラミックの部品 10個 OD9.8xH11xID6.7　[AliExpress](https://ja.aliexpress.com/item/1005002340926694.html) \
-ピザプレート 2枚（ツインバード 892009 TS-4119Wから流用） [yodobashi](https://www.yodobashi.com/product/100000001002338272/)\
-セラミックファイバーブランケット 厚み12.5mm[MonotaRO](https://www.monotaro.com/p/2859/6829/)\
-アルミシート[Amazon](https://www.amazon.co.jp/dp/B00I7KU4JC)\
-耐熱電線 15 AWG, 5 meters price [AliExpress](https://ja.aliexpress.com/item/1005004792599537.html)\
-断熱編組スリーブ[Amazon](https://www.amazon.co.jp/dp/B0861VLQ2J)\
-片サドルバンド 625-210-B [MonotaRO](https://www.monotaro.com/p/0109/6515/)\
-SSR 2個[Amazon](https://www.amazon.co.jp/dp/B0CC4VYYJ5)\
-SSRヒートシンク[Amazon](https://www.amazon.co.jp/dp/B0CTQBSR3H)\
-放熱用シリコーン[Amazon](https://www.amazon.co.jp/dp/B004OQP8RQ)\
-Max6675 モジュール 4個[AliExpress](https://ja.aliexpress.com/item/1005006282367831.html)\
-K熱電対 1m M8 K, 200mm　2個[AliExpress](https://ja.aliexpress.com/item/4000097994613.html)\
-K熱電対 K 1mm, 200mm 2個[AliExpress](https://ja.aliexpress.com/item/1005004874800021.html)\
-ProMicro\
-タクトスイッチ\
-パネルマウントUSB-C延長ケーブル[Amazon](https://www.amazon.co.jp/dp/B0887XHFML)\
-スイッチング電源 ESP10-25-12 [MiSUMi](https://jp.misumi-ec.com/vona2/detail/110400281630/?ProductCode=ESP10-25-12)\
-ステンレスカラー TCLSS4-6-10 [MiSUMi](https://jp.misumi-ec.com/vona2/detail/110300235050/?ProductCode=TCLSS4-6-10)\
-PCファン[Amazon](https://www.amazon.co.jp/dp/B09M6HTSC3)\
-ファンガード[Amazon](https://www.amazon.co.jp/gp/product/B00YH754QM)\
-ロッカースイッチ A8A-216-1\
-OLED SSH1106 1.3 I2C [Amazon](https://www.amazon.co.jp/dp/B07QC5W46K)\
-ヒューズホルダー[MiSUMi](https://jp.misumi-ec.com/vona2/detail/222004911089/?ProductCode=FH-052S)\
-ガラス管ヒューズ[Yodobashi](https://www.yodobashi.com/product/100000001002122484/)\
-圧着端子\
-組端子台\
-DINレール[Amazon](https://www.amazon.co.jp/dp/B076LWQCW7)\
-DINレール固定金具[Amazon](https://www.amazon.co.jp/dp/B013CXAX9Y)\
-電源コード[Amazon](https://www.amazon.co.jp/dp/B00ID1S2W6)\
-インレット C14[MiSUMi](https://jp.misumi-ec.com/vona2/detail/110400165860/?ProductCode=WTN-1171AA)\
-電線\
-ステンレストラスねじM4-4\
-ステンレストラスねじM4-12\
-ステンレス針金\
-ねじ脚 MN-25M8 [MiSUMi](https://jp.misumi-ec.com/vona2/detail/221000121526/?ProductCode=MN-25M8)
+
+|部品名|型番や仕様|必要数量|参考購入先|備考|
+|---|---|:-:|---|---|
+シーズヒーター|345mm 315mmL 300W, 110V|3本|[AliExpress](https://ja.aliexpress.com/item/1005006249800119.html)|合計743W（100V使用時）
+シーズヒーター|350mm 320mmL 350W, 110V|2本|[AliExpress](https://ja.aliexpress.com/item/1005006249800119.html)|合計581W（100V使用時）
+セラミックの部品|OD9.8xH11xID6.7|10個|[AliExpress](https://ja.aliexpress.com/item/1005002340926694.html)|ヒーターと筐体の絶縁に仕様
+ピザプレート|ツインバード 892009 TS-4119Wから流用|2枚|[yodobashi](https://www.yodobashi.com/product/100000001002338272/)
+セラミックファイバーブランケット|厚み12.5mm|1|[MonotaRO](https://www.monotaro.com/p/2859/6829/)
+アルミシート|||[Amazon](https://www.amazon.co.jp/dp/B00I7KU4JC)
+耐熱電線 |15 AWG|5m|[AliExpress](https://ja.aliexpress.com/item/1005004792599537.html)
+断熱編組スリーブ||1|[Amazon](https://www.amazon.co.jp/dp/B0861VLQ2J)
+片サドルバンド|625-210-B|2個|[MonotaRO](https://www.monotaro.com/p/0109/6515/)
+SSR||2個 |[Amazon](https://www.amazon.co.jp/dp/B0CC4VYYJ5)
+SSRヒートシンク||2個|[Amazon](https://www.amazon.co.jp/dp/B0CTQBSR3H)
+放熱用シリコーン||1|[Amazon](https://www.amazon.co.jp/dp/B004OQP8RQ)
+Max6675 モジュール||4個|[AliExpress](https://ja.aliexpress.com/item/1005006282367831.html)
+K熱電対Φ5mm|1m M8 K, 200mm|2個|[AliExpress](https://ja.aliexpress.com/item/4000097994613.html)
+K熱電対Φ1mm|K 1mm, 200mm|2個|[AliExpress](https://ja.aliexpress.com/item/1005004874800021.html)
+ProMicro
+タクトスイッチ
+パネルマウントUSB-C延長ケーブル ||1|[Amazon](https://www.amazon.co.jp/dp/B0887XHFML)
+スイッチング電源 |ESP10-25-12|1|[MiSUMi](https://jp.misumi-ec.com/vona2/detail/110400281630/?ProductCode=ESP10-25-12)
+ステンレスカラー|TCLSS4-6-10|4|[MiSUMi](https://jp.misumi-ec.com/vona2/detail/110300235050/?ProductCode=TCLSS4-6-10)
+PCファン|||[Amazon](https://www.amazon.co.jp/dp/B09M6HTSC3)
+ファンガード||1|[Amazon](https://www.amazon.co.jp/gp/product/B00YH754QM)
+ロッカースイッチ|A8A-216-1|
+OLED|SSH1106 1.3 I2C|1|[Amazon](https://www.amazon.co.jp/dp/B07QC5W46K)
+ヒューズホルダー||1|[MiSUMi](https://jp.misumi-ec.com/vona2/detail/222004911089/?ProductCode=FH-052S)
+ガラス管ヒューズ||1|[Yodobashi](https://www.yodobashi.com/product/100000001002122484/)
+圧着端子
+組端子台
+DINレール|||[Amazon](https://www.amazon.co.jp/dp/B076LWQCW7)
+DINレール固定金具|||[Amazon](https://www.amazon.co.jp/dp/B013CXAX9Y)
+電源コード||1|[Amazon](https://www.amazon.co.jp/dp/B00ID1S2W6)
+インレット|C14|1|[MiSUMi](https://jp.misumi-ec.com/vona2/detail/110400165860/?ProductCode=WTN-1171AA)
+電線
+ステンレストラスねじ|M4-4|
+ステンレストラスねじ|M4-12|
+ステンレス針金
+ねじ脚|MN-25M8|4|[MiSUMi](https://jp.misumi-ec.com/vona2/detail/221000121526/?ProductCode=MN-25M8)
 
 ### 必要工具
 鉄鋼やすり\
