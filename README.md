@@ -86,7 +86,7 @@ TelePlotで温度やSSRへの出力値（0-255）をグラフ表示すること�
 シーズヒーター|345mm 315mmL 300W, 110V|3本|[AliExpress](https://ja.aliexpress.com/item/1005006249800119.html)|合計743W（100V使用時）
 シーズヒーター|350mm 320mmL 350W, 110V|2本|[AliExpress](https://ja.aliexpress.com/item/1005006249800119.html)|合計581W（100V使用時）
 セラミックの部品|OD9.8xH11xID6.7|10個|[AliExpress](https://ja.aliexpress.com/item/1005002340926694.html)|ヒーターと筐体の絶縁に仕様
-ピザプレート|ツインバード 892009 TS-4119Wから流用|2枚|[yodobashi](https://www.yodobashi.com/product/100000001002338272/)
+ピザプレート|ツインバード 892009|2枚|[yodobashi](https://www.yodobashi.com/product/100000001002338272/)|TS-4119Wから流用
 セラミックファイバーブランケット|厚み12.5mm|1|[MonotaRO](https://www.monotaro.com/p/2859/6829/)
 アルミシート|||[Amazon](https://www.amazon.co.jp/dp/B00I7KU4JC)
 耐熱電線 |15 AWG|5m|[AliExpress](https://ja.aliexpress.com/item/1005004792599537.html)
@@ -98,20 +98,20 @@ SSRヒートシンク||2個|[Amazon](https://www.amazon.co.jp/dp/B0CTQBSR3H)
 Max6675 モジュール||4個|[AliExpress](https://ja.aliexpress.com/item/1005006282367831.html)
 K熱電対Φ5mm|1m M8 K, 200mm|2個|[AliExpress](https://ja.aliexpress.com/item/4000097994613.html)
 K熱電対Φ1mm|K 1mm, 200mm|2個|[AliExpress](https://ja.aliexpress.com/item/1005004874800021.html)
-ProMicro
-タクトスイッチ
+ProMicro||1|
+タクトスイッチ||1|
 パネルマウントUSB-C延長ケーブル ||1|[Amazon](https://www.amazon.co.jp/dp/B0887XHFML)
 スイッチング電源 |ESP10-25-12|1|[MiSUMi](https://jp.misumi-ec.com/vona2/detail/110400281630/?ProductCode=ESP10-25-12)
 ステンレスカラー|TCLSS4-6-10|4|[MiSUMi](https://jp.misumi-ec.com/vona2/detail/110300235050/?ProductCode=TCLSS4-6-10)
-PCファン|||[Amazon](https://www.amazon.co.jp/dp/B09M6HTSC3)
+PCファン||1|[Amazon](https://www.amazon.co.jp/dp/B09M6HTSC3)
 ファンガード||1|[Amazon](https://www.amazon.co.jp/gp/product/B00YH754QM)
-ロッカースイッチ|A8A-216-1|
+ロッカースイッチ|A8A-216-1|1|
 OLED|SSH1106 1.3 I2C|1|[Amazon](https://www.amazon.co.jp/dp/B07QC5W46K)
 ヒューズホルダー||1|[MiSUMi](https://jp.misumi-ec.com/vona2/detail/222004911089/?ProductCode=FH-052S)
 ガラス管ヒューズ||1|[Yodobashi](https://www.yodobashi.com/product/100000001002122484/)
 圧着端子
-組端子台
-DINレール|||[Amazon](https://www.amazon.co.jp/dp/B076LWQCW7)
+組端子台||1|
+DINレール||1|[Amazon](https://www.amazon.co.jp/dp/B076LWQCW7)
 DINレール固定金具|||[Amazon](https://www.amazon.co.jp/dp/B013CXAX9Y)
 電源コード||1|[Amazon](https://www.amazon.co.jp/dp/B00ID1S2W6)
 インレット|C14|1|[MiSUMi](https://jp.misumi-ec.com/vona2/detail/110400165860/?ProductCode=WTN-1171AA)
