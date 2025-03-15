@@ -1,7 +1,7 @@
 # Electric Pizza Cooker El-Pico
 El-Pico, This is a programmable Electric Pizza Cooker (Oven)!
 \
-![Screenshot](image/image.png)
+![Screenshot](image/image_02.png)
 CADデータのレンダリングイメージ
 
 ## Why Pizza ?
@@ -45,6 +45,7 @@ CADデータのレンダリングイメージ
 ### 設計について
 まず上述のオーブントースター改造ピザ窯での情報から、TS-4119Wを購入し改造を行いデータを収集することにしました。\
 数回の改良を経て満足いく性能は発揮できたものの、使い勝手の向上やサイズと外観を良くするために筐体を設計することとしました。
+![Screenshot](image/image_03.png)
 #### 設計の際に考慮した改善点
 * ピザピールを扱いやすいように開口部の幅を広げる
 * 手前と奥の焼きムラを低減する
@@ -80,7 +81,6 @@ TelePlotで温度やSSRへの出力値（0-255）をグラフ表示すること�
 ![Screenshot](image/Temp-log_01.png)
 
 ### 必要部品
-
 |部品名|型番や仕様|必要数量|参考購入先|備考|
 |---|---|:-:|---|---|
 シーズヒーター|345mm 315mmL 300W, 110V|3本|[AliExpress](https://ja.aliexpress.com/item/1005006249800119.html)|合計743W（100V使用時）
